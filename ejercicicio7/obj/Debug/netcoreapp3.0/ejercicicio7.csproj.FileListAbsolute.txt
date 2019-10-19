@@ -1,0 +1,11 @@
+C:\Users\COMPUTEACH\source\repos\ejercicicio7\bin\Debug\netcoreapp3.0\ejercicicio7.exe
+C:\Users\COMPUTEACH\source\repos\ejercicicio7\bin\Debug\netcoreapp3.0\ejercicicio7.deps.json
+C:\Users\COMPUTEACH\source\repos\ejercicicio7\bin\Debug\netcoreapp3.0\ejercicicio7.runtimeconfig.json
+C:\Users\COMPUTEACH\source\repos\ejercicicio7\bin\Debug\netcoreapp3.0\ejercicicio7.runtimeconfig.dev.json
+C:\Users\COMPUTEACH\source\repos\ejercicicio7\bin\Debug\netcoreapp3.0\ejercicicio7.dll
+C:\Users\COMPUTEACH\source\repos\ejercicicio7\bin\Debug\netcoreapp3.0\ejercicicio7.pdb
+C:\Users\COMPUTEACH\source\repos\ejercicicio7\obj\Debug\netcoreapp3.0\ejercicicio7.csprojAssemblyReference.cache
+C:\Users\COMPUTEACH\source\repos\ejercicicio7\obj\Debug\netcoreapp3.0\ejercicicio7.AssemblyInfoInputs.cache
+C:\Users\COMPUTEACH\source\repos\ejercicicio7\obj\Debug\netcoreapp3.0\ejercicicio7.AssemblyInfo.cs
+C:\Users\COMPUTEACH\source\repos\ejercicicio7\obj\Debug\netcoreapp3.0\ejercicicio7.dll
+C:\Users\COMPUTEACH\source\repos\ejercicicio7\obj\Debug\netcoreapp3.0\ejercicicio7.pdb
